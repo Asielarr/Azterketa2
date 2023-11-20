@@ -11,6 +11,7 @@ public class Azterketa {
 		int kontagailua = 0;
 		int batazbeste = 0;
 		do {
+			System.out.println("Sartu zenbaki oso bat");
 			zenbakia = sc.nextInt();
 			kontagailua++;
 			batazbeste= batazbeste+zenbakia;
